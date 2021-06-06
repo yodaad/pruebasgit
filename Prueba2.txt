@@ -1,1 +1,2 @@
 Esta es la prueba 2 de un archivo que será usado en GIT.
+Nueva línea creada con GitHub.
